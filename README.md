@@ -2,6 +2,8 @@
 This is a simple delivery system using C++.
 It is important to use vector<Base*> vec and vec[i]->xxxxx to visit.
 
+# use blame mode to read this file
+
 Question:
 Package Inheritance Hierarchy
 Package delivery services such as FedEx and UPS offer a number of
@@ -55,6 +57,7 @@ weights, delivery method).
 Please make sure to put your name in the file name of all the .cpp files and
 comment your code.
 Submit the zip of all your code files.
+
 Sample possible output:
 Package delivery services program
 Cost per ounce for a package:  $.50/ounce
